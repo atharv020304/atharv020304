@@ -26,7 +26,7 @@
   <a href="https://twitter.com/[YourTwitter]" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="[YourTwitter]" height="30" width="40" />
   </a>
-  <a href="https://github.com/[YourUsername]" target="blank">
+  <a href="https://github.com/atharv020304" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="[YourUsername]" height="30" width="40" />
   </a>
 </p>
@@ -56,11 +56,11 @@
 
 ### 📂 **Top Projects:**
 <p align="left">
-  <a href="https://github.com/[YourUsername]/[YourProject1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[YourProject1]" alt="[YourProject1]" />
+  <a href="https://github.com/atharv020304/Multithreaded_File_Encrypter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=" alt="Multithreaded_File_Encrypter" />
   </a>
-  <a href="https://github.com/[YourUsername]/[YourProject2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[YourProject2]" alt="[YourProject2]" />
+  <a href="https://github.com/atharv020304/JobsThatClick">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=JobsThatClick" alt="JobsThatClick" />
   </a>
 </p>
 
@@ -68,5 +68,5 @@
 
 ### 🚀 **My Contributions:**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=react-dark" alt="[YourUsername]" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv020304&theme=react-dark" alt="atharv020304" />
 </p>
