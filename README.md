@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role/Field] from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Atharv </h1>
+<h3 align="center">A passionate Software Developer </h3>
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourUsername]" />
+  <a href="https://github.com/atharv020304">
+    <img src="https://komarev.com/ghpvc/?username=atharv020304&label=Profile%20views&color=0e75b6&style=flat" alt="atharv020304" />
   </a>
-  <a href="https://github.com/[YourUsername]/?tab=followers">
-    <img src="https://img.shields.io/github/followers/[YourUsername]?label=Followers&style=social" alt="[YourUsername]" />
+  <a href="https://github.com/atharv020304/?tab=followers">
+    <img src="https://img.shields.io/github/followers/atharv020304?label=Followers&style=social" alt="atharv020304" />
   </a>
 </p>
 
 ---
 
 - 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework/Skill]**
-- 💬 Ask me about **[Your Expertise/Topics]**
-- 📫 How to reach me **[Your Email]**
-- ⚡ Fun fact **[Something Interesting About You]**
+- 🌱 I’m currently learning **Unix operating Systems**
+- 📫 How to reach me **atharvabapat3@gmail.com**
 
 ---
 
