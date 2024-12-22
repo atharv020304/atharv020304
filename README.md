@@ -56,8 +56,8 @@
 
 ### 📂 **Top Projects:**
 <p align="left">
-  <a href="https://github.com/atharv020304/Multithreaded_File_Encrypter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=" alt="Multithreaded_File_Encrypter" />
+  <a href="https://github.com/atharv020304/File_Encrypter_Multithreaded">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=File_Encrypter_Multithreaded alt="File_Encrypter_Multithreaded" />
   </a>
   <a href="https://github.com/atharv020304/JobsThatClick">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=JobsThatClick" alt="JobsThatClick" />
