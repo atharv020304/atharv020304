@@ -13,7 +13,7 @@
 ---
 
 - 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **Unix operating Systems**
+- 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me **atharvabapat3@gmail.com**
 
 ---
