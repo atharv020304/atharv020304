@@ -20,14 +20,14 @@
 
 ### 🌐 **Connect with me:**
 <p align="left">
-  <a href="https://linkedin.com/in/[YourLinkedIn]" target="blank">
+  <a href="https://linkedin.com/in/atharv-bapat-059241264" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="[YourLinkedIn]" height="30" width="40" />
   </a>
   <a href="https://twitter.com/[YourTwitter]" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="[YourTwitter]" height="30" width="40" />
   </a>
   <a href="https://github.com/atharv020304" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="[YourUsername]" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="atharv020304" height="30" width="40" />
   </a>
 </p>
 
@@ -48,8 +48,8 @@
 
 ### 📊 **GitHub Stats:**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&locale=en" alt="[YourUsername]" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&" alt="[YourUsername]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv020304&show_icons=true&locale=en" alt="atharv020304" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv020304&" alt="atharv020304" />
 </p>
 
 ---
