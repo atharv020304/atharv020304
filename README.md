@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Your Project Name]**
+- 🔭 I’m currently working on **DevOps**
 - 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me **atharvabapat3@gmail.com**
 
@@ -57,7 +57,7 @@
 ### 📂 **Top Projects:**
 <p align="left">
   <a href="https://github.com/atharv020304/File_Encrypter_Multithreaded">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=File_Encrypter_Multithreaded alt="File_Encrypter_Multithreaded" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=File_Encrypter_Multithreaded" alt="File_Encrypter_Multithreaded" />
   </a>
   <a href="https://github.com/atharv020304/JobsThatClick">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharv020304&repo=JobsThatClick" alt="JobsThatClick" />
