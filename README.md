@@ -12,7 +12,6 @@
 
 ---
 
-- 🔭 I’m currently working on **DevOps**
 - 🌱 I’m currently learning **Software Engineering**
 - 📫 How to reach me **atharvabapat3@gmail.com**
 
